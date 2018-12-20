@@ -23,5 +23,8 @@ approve() {
  }
 }
  class Ceo extends BoardMember {
-  
+   sayHi(){
+       super.sayHi()
+       console.log('hello')
+     }
  }
