@@ -24,7 +24,6 @@ approve() {
 }
  class Ceo extends BoardMember {
    sayHi(){
-       super.sayHi()
        return("Welcome aboard!")
      }
  }
