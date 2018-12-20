@@ -23,7 +23,7 @@ approve() {
  }
 }
  class Ceo extends BoardMember {
-   sayHi(){
+   hireEmployee(){
        return("Welcome aboard!")
      }
  }
